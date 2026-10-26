@@ -1,0 +1,178 @@
+[
+  {
+    "country": "China",
+    "cn": "中国",
+    "name": "Mapo tofu",
+    "dish": "麻婆豆腐",
+    "time": "25 min",
+    "color": "#cf6549",
+    "ingredients": [
+      "400 g firm tofu, cubed",
+      "100 g ground pork",
+      "1 tbsp doubanjiang",
+      "1 tsp Sichuan pepper",
+      "150 ml stock; garlic; scallion"
+    ],
+    "steps": [
+      "Gently simmer tofu cubes in water; drain.",
+      "Brown pork with minced garlic, then stir in doubanjiang.",
+      "Add stock and tofu. Simmer gently for 5–7 minutes.",
+      "Thicken with a little cornstarch slurry; finish with Sichuan pepper and scallion."
+    ],
+    "lang": "zh"
+  },
+  {
+    "country": "South Korea",
+    "cn": "韩国",
+    "name": "Korean mixed rice",
+    "dish": "비빔밥",
+    "time": "30 min",
+    "color": "#cf9c4e",
+    "ingredients": [
+      "2 bowls cooked rice",
+      "1 carrot; spinach; bean sprouts",
+      "2 eggs",
+      "2 tbsp gochujang",
+      "Sesame oil and sesame seeds"
+    ],
+    "steps": [
+      "Slice carrot. Cook each vegetable separately with a little oil.",
+      "Divide hot rice between two bowls.",
+      "Arrange vegetables over rice and top each bowl with a fried egg.",
+      "Add gochujang and sesame oil; mix together before eating."
+    ],
+    "lang": "ko"
+  },
+  {
+    "country": "Japan",
+    "cn": "日本",
+    "name": "Miso soup",
+    "dish": "味噌汁",
+    "time": "15 min",
+    "color": "#a99159",
+    "ingredients": [
+      "500 ml dashi stock",
+      "150 g silken tofu",
+      "2 tbsp miso paste",
+      "1 tbsp dried wakame",
+      "1 scallion, sliced"
+    ],
+    "steps": [
+      "Soak wakame and cut tofu into small cubes.",
+      "Bring dashi to a gentle simmer; add tofu and wakame.",
+      "Turn heat off. Dissolve miso in a ladle of warm broth, then stir it in.",
+      "Top with scallion. Serve warm without boiling the miso."
+    ],
+    "lang": "ja"
+  },
+  {
+    "country": "Thailand",
+    "cn": "泰国",
+    "name": "Tom yum shrimp soup",
+    "dish": "ต้มยำกุ้ง",
+    "time": "25 min",
+    "color": "#dc784c",
+    "ingredients": [
+      "250 g peeled shrimp",
+      "600 ml stock; 150 g mushrooms",
+      "2 lemongrass stalks; 3 slices galangal",
+      "3 makrut lime leaves; chili to taste",
+      "Fish sauce and lime juice, to taste"
+    ],
+    "steps": [
+      "Bruise lemongrass. Simmer with stock, galangal and lime leaves for 8 minutes.",
+      "Add mushrooms and chili; simmer until mushrooms soften.",
+      "Add shrimp and cook until opaque throughout.",
+      "Turn off heat, season with fish sauce and lime juice; remove tough aromatics before eating."
+    ],
+    "lang": "th"
+  },
+  {
+    "country": "Vietnam",
+    "cn": "越南",
+    "name": "Fresh spring rolls",
+    "dish": "Gỏi cuốn",
+    "time": "25 min",
+    "color": "#7d9b56",
+    "ingredients": [
+      "6 rice-paper wrappers",
+      "100 g cooked rice vermicelli",
+      "12 cooked shrimp halves",
+      "Lettuce, mint and cucumber",
+      "Hoisin dipping sauce"
+    ],
+    "steps": [
+      "Prepare cooked noodles, cooked shrimp and sliced vegetables.",
+      "Dip one wrapper briefly into warm water and lay flat.",
+      "Add lettuce, noodles, herbs and shrimp to the lower third.",
+      "Fold sides inward and roll snugly. Repeat; serve with dipping sauce."
+    ],
+    "lang": "vi"
+  },
+  {
+    "country": "Malaysia",
+    "cn": "马来西亚",
+    "name": "Coconut rice",
+    "dish": "Nasi lemak",
+    "time": "35 min",
+    "color": "#8eaa60",
+    "ingredients": [
+      "1 cup rice",
+      "200 ml coconut milk; water as needed",
+      "1 pandan leaf (optional)",
+      "2 boiled eggs; sliced cucumber",
+      "Roasted peanuts and prepared sambal"
+    ],
+    "steps": [
+      "Rinse rice. Add coconut milk and enough water for your rice cooker’s usual liquid level.",
+      "Add pandan if using; cook until rice is tender.",
+      "Prepare boiled eggs, cucumber and roasted peanuts.",
+      "Serve coconut rice with the toppings and a spoonful of sambal."
+    ],
+    "lang": "ms"
+  },
+  {
+    "country": "Indonesia",
+    "cn": "印度尼西亚",
+    "name": "Indonesian fried rice",
+    "dish": "Nasi goreng",
+    "time": "20 min",
+    "color": "#b4794d",
+    "ingredients": [
+      "2 bowls chilled cooked rice",
+      "2 eggs",
+      "2 garlic cloves; 1 shallot",
+      "1–2 tbsp kecap manis",
+      "Oil; scallion; cucumber"
+    ],
+    "steps": [
+      "Finely chop garlic and shallot. Fry in a little oil until fragrant.",
+      "Add rice and stir-fry until piping hot.",
+      "Stir in kecap manis and sliced scallion.",
+      "Top with fried eggs and serve with cucumber."
+    ],
+    "lang": "id"
+  },
+  {
+    "country": "Philippines",
+    "cn": "菲律宾",
+    "name": "Chicken adobo",
+    "dish": "Adobong manok",
+    "time": "45 min",
+    "color": "#9c7359",
+    "ingredients": [
+      "500 g chicken thighs",
+      "60 ml soy sauce; 60 ml vinegar",
+      "120 ml water",
+      "4 garlic cloves; 2 bay leaves",
+      "1 tsp whole peppercorns"
+    ],
+    "steps": [
+      "Brown chicken in a little oil.",
+      "Add crushed garlic, soy sauce, vinegar, water, bay leaves and peppercorns.",
+      "Bring to a simmer; cover and cook until chicken is cooked through and tender.",
+      "Uncover and reduce sauce slightly. Serve with rice."
+    ],
+    "lang": "fil"
+  }
+]
